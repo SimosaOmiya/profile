@@ -4,7 +4,7 @@
 
 ## Who I am
 - 某交通系企業勤務
-- [中島由貴さん](https://twitter.com/Yuki_Nakashim){:target="_blank"}世代
+- <a href="https://twitter.com/Yuki_Nakashim" target="_blank">中島由貴さん</a>世代
 - 声優・声優アーティストのオタクだったかも（今も軽くオタクしてるけど...）
 - 鉄道旅行好き．鉄道全般も興味はアリ（知識はそんなにない）．
 - 趣味でコーディングしてる
@@ -30,7 +30,7 @@
 	- みもりん
 	- とのつむ
 
-[イベント予定/実績（イベンターノート）](https://www.eventernote.com/users/verde_var2){:target="_blank"}
+<a href="https://www.eventernote.com/users/verde_var2" target="_blank">イベント予定/実績（イベンターノート）</a>
 
 ## 交通系
 - オタクジャンル的には乗り鉄，ただ普通に鉄道旅行が好き．
@@ -52,11 +52,11 @@
 ## 自分の発信媒体
 世の中の しもおさ / SimosaOmiya 名義のアカウントは全て自分だと思います（自分で確認した限り）．
 
-- [Twitter(@verde_var2)](https://twitter.com/verde_var2)
+- <a href="https://twitter.com/verde_var2" target="_blank">Twitter(@verde_var2)</a>
 	- DMは開放されてますので，コンタクトはそちらにどうぞ．
 	- SimosaOmiya名義もありますが，ただのクラウドメモ．
-- [note(SimosaOmiya/しもおさ)](https://note.com/simosaomiya)
+- <a href="https://note.com/simosaomiya" target="_blank">note(SimosaOmiya/しもおさ)</a>
 	- オタク雑記が混ざってます．
-- [Youtube(simousatrain)](https://www.youtube.com/channel/UCSSqnPW818ZzHP5xZ5PbDrA)
+- <a href="https://www.youtube.com/channel/UCSSqnPW818ZzHP5xZ5PbDrA" target="_blank">Youtube(simousatrain)</a>
 	- 基本的には昔の名残．
 	- たまーにジャンル問わず動画あげます．
