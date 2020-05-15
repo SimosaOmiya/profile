@@ -37,6 +37,7 @@
 
 <a href="https://www.eventernote.com/users/verde_var2" target="_blank">イベント予定/実績（イベンターノート）</a>
 
+
 - 割とDD（行きたくなったら誰でもどこでも行く）
 - 全通とかはまずしない
 - 関東圏メインだけど，たまに遠征（名阪くらい）
