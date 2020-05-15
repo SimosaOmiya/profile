@@ -4,7 +4,7 @@
 
 ## Who I am
 - 某交通系企業勤務
-- [中島由貴さん](https://twitter.com/Yuki_Nakashim)世代
+- [中島由貴さん](https://twitter.com/Yuki_Nakashim){:target="_blank"}世代
 - 声優・声優アーティストのオタクだったかも（今も軽くオタクしてるけど...）
 - 鉄道旅行好き．鉄道全般も興味はアリ（知識はそんなにない）．
 - 趣味でコーディングしてる
@@ -30,7 +30,7 @@
 	- みもりん
 	- とのつむ
 
-[イベント予定/実績（イベンターノート）](https://www.eventernote.com/users/verde_var2)
+[イベント予定/実績（イベンターノート）](https://www.eventernote.com/users/verde_var2){:target="_blank"}
 
 ## 交通系
 - オタクジャンル的には乗り鉄，ただ普通に鉄道旅行が好き．
