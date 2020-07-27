@@ -16,10 +16,15 @@
 正直最近はモチベは低め．
 
 ### 触れてるもの
-- バンドリ（リアルバンド）
+- バンドリ（リアルバンドのライブ）
 	- RAISE A SUILEN
 	- Roselia
 	- Poppin'Party
+- D4DJ（ニワカ）
+	- Peaky P-key
+	- Happy Around!
+	- Photon Maiden
+	- 燐舞曲
 - バンドリ声優・響声優
 	- しまゆき｜中島由貴(FC会員)
 	- とのつむ｜遠野ひかる，紡木吏佐
@@ -89,7 +94,9 @@
 	- DMは開放されてますので，コンタクトはそちらにどうぞ．
 	- SimosaOmiya名義もありますが，ただのクラウドメモ．
 - <a href="https://note.com/simosaomiya" target="_blank">note(SimosaOmiya/しもおさ)</a>
-	- オタク雑記が混ざってます．
+	- HiBiKi StYleのロケハン記事書いてます．
+	- オタク雑記も混ざってます．
+	- 交通系も書いたりします．
 - <a href="https://www.youtube.com/channel/UCSSqnPW818ZzHP5xZ5PbDrA" target="_blank">Youtube(simousatrain)</a>
 	- 基本的には昔の名残．
 	- たまーにジャンル問わず動画あげます．
