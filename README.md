@@ -23,9 +23,14 @@
 
 ### 触れてるもの
 - バンドリ（リアルバンド）
-	- RAISE A SUILEN・Roselia・Poppin'Party(・Morfonica)
+	- RAISE A SUILEN
+	- Roselia
+	- Poppin'Party
+	- (Morfonica)
 - D4DJ
-	- Peaky P-key・Photon Maiden・Happy Around!
+	- Peaky P-key
+	- Photon Maiden
+	- Happy Around!
 - バンドリ/D4DJ声優・響声優
 	- とのつむ（遠野ひかる，紡木吏佐）
 	- れおちゃん（倉知玲鳳）
